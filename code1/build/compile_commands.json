@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/Study/opengl/code1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp  -g -std=c++17 -g -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c E:\\Study\\opengl\\code1\\src\\main.cpp",
+  "file": "E:/Study/opengl/code1/src/main.cpp"
+},
+{
+  "directory": "E:/Study/opengl/code1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\glad.c.obj -c E:\\Study\\opengl\\code1\\src\\glad.c",
+  "file": "E:/Study/opengl/code1/src/glad.c"
+}
+]
