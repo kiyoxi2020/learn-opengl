@@ -1,4 +1,4 @@
-# Install script for directory: E:/Study/opengl/code3
+# Install script for directory: E:/Study/opengl/code/code3
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/Study/opengl/code3/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/Study/opengl/code/code3/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

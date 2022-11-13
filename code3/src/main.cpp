@@ -77,12 +77,12 @@ int main()
 
     // build and compile shaders
     // -------------------------
-    Shader ourShader("E:/Study/opengl/code3/src/vertex_shader.vs", 
-                    "E:/Study/opengl/code3/src/fragment_shader.fs");
+    Shader ourShader("E:/Study/opengl/code/code3/src/vertex_shader.vs", 
+                    "E:/Study/opengl/code/code3/src/fragment_shader.fs");
 
     // load models
     // -----------
-    Model ourModel("E:/Study/opengl/code3/resource/backpack/backpack.obj");
+    Model ourModel("E:/Study/opengl/code/code3/resource/backpack/backpack.obj");
 
     
     // draw in wireframe

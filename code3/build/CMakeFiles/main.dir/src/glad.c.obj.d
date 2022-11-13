@@ -1,4 +1,4 @@
-CMakeFiles/main.dir/src/glad.c.obj: E:\Study\opengl\code3\src\glad.c \
+CMakeFiles/main.dir/src/glad.c.obj: E:\Study\opengl\code\code3\src\glad.c \
  C:/msys64/mingw64/include/stdio.h \
  C:/msys64/mingw64/include/corecrt_stdio_config.h \
  C:/msys64/mingw64/include/corecrt.h C:/msys64/mingw64/include/_mingw.h \
@@ -17,8 +17,8 @@ CMakeFiles/main.dir/src/glad.c.obj: E:\Study\opengl\code3\src\glad.c \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/mm_malloc.h \
  C:/msys64/mingw64/include/errno.h C:/msys64/mingw64/include/string.h \
  C:/msys64/mingw64/include/sec_api/string_s.h \
- E:/Study/opengl/code3/include/glad/glad.h \
- E:/Study/opengl/code3/include/KHR/khrplatform.h \
+ E:/Study/opengl/code/code3/include/glad/glad.h \
+ E:/Study/opengl/code/code3/include/KHR/khrplatform.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdint.h \
  C:/msys64/mingw64/include/stdint.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stddef.h \

@@ -1,6 +1,7 @@
-CMakeFiles/main.dir/src/main.cpp.obj: E:\Study\opengl\code3\src\main.cpp \
- E:/Study/opengl/code3/include/glad/glad.h \
- E:/Study/opengl/code3/include/KHR/khrplatform.h \
+CMakeFiles/main.dir/src/main.cpp.obj: \
+ E:\Study\opengl\code\code3\src\main.cpp \
+ E:/Study/opengl/code/code3/include/glad/glad.h \
+ E:/Study/opengl/code/code3/include/KHR/khrplatform.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdint.h \
  C:/msys64/mingw64/include/stdint.h C:/msys64/mingw64/include/crtdefs.h \
  C:/msys64/mingw64/include/corecrt.h C:/msys64/mingw64/include/_mingw.h \
@@ -10,9 +11,9 @@ CMakeFiles/main.dir/src/main.cpp.obj: E:\Study\opengl\code3\src\main.cpp \
  C:/msys64/mingw64/include/sdks/_mingw_ddk.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stddef.h \
  C:/msys64/mingw64/include/stddef.h \
- E:/Study/opengl/code3/include/GLFW/glfw3.h \
- E:/Study/opengl/code3/include/glm/glm/glm.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/_fixes.hpp \
+ E:/Study/opengl/code/code3/include/GLFW/glfw3.h \
+ E:/Study/opengl/code/code3/include/glm/glm/glm.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/_fixes.hpp \
  C:/msys64/mingw64/include/c++/11.2.0/cmath \
  C:/msys64/mingw64/include/c++/11.2.0/x86_64-w64-mingw32/bits/c++config.h \
  C:/msys64/mingw64/include/c++/11.2.0/x86_64-w64-mingw32/bits/os_defines.h \
@@ -59,201 +60,201 @@ CMakeFiles/main.dir/src/main.cpp.obj: E:\Study\opengl\code3\src\main.cpp \
  C:/msys64/mingw64/include/c++/11.2.0/tr1/poly_hermite.tcc \
  C:/msys64/mingw64/include/c++/11.2.0/tr1/poly_laguerre.tcc \
  C:/msys64/mingw64/include/c++/11.2.0/tr1/riemann_zeta.tcc \
- E:/Study/opengl/code3/include/glm/glm/detail/setup.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/setup.hpp \
  C:/msys64/mingw64/include/c++/11.2.0/cassert \
  C:/msys64/mingw64/include/assert.h \
  C:/msys64/mingw64/include/c++/11.2.0/cstdlib \
  C:/msys64/mingw64/include/c++/11.2.0/cstddef \
- E:/Study/opengl/code3/include/glm/glm/simd/platform.h \
+ E:/Study/opengl/code/code3/include/glm/glm/simd/platform.h \
  C:/msys64/mingw64/include/c++/11.2.0/cstdint \
  C:/msys64/mingw64/include/c++/11.2.0/climits \
  C:/msys64/mingw64/include/c++/11.2.0/cfloat \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/float.h \
  C:/msys64/mingw64/include/float.h \
- E:/Study/opengl/code3/include/glm/glm/fwd.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/qualifier.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/setup.hpp \
- E:/Study/opengl/code3/include/glm/glm/vec2.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_bool2.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_vec2.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_vec2.inl \
- E:/Study/opengl/code3/include/glm/glm/detail/compute_vector_relational.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_bool2_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_float2.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_float2_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_double2.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_double2_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_int2.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_int2_sized.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/scalar_int_sized.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/setup.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_uint2.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_uint2_sized.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/scalar_uint_sized.hpp \
- E:/Study/opengl/code3/include/glm/glm/vec3.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_bool3.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_vec3.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_vec3.inl \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_bool3_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_float3.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_float3_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_double3.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_double3_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_int3.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_int3_sized.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_uint3.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_uint3_sized.hpp \
- E:/Study/opengl/code3/include/glm/glm/vec4.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_bool4.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_vec4.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_vec4.inl \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_bool4_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_float4.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_float4_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_double4.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_double4_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_int4.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_int4_sized.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_uint4.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_uint4_sized.hpp \
- E:/Study/opengl/code3/include/glm/glm/mat2x2.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_double2x2.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_mat2x2.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_mat2x2.inl \
- E:/Study/opengl/code3/include/glm/glm/matrix.hpp \
- E:/Study/opengl/code3/include/glm/glm/mat2x3.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_double2x3.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_mat2x3.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_mat2x3.inl \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_double2x3_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_float2x3.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_float2x3_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/mat2x4.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_double2x4.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_mat2x4.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_mat2x4.inl \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_double2x4_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_float2x4.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_float2x4_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/mat3x2.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_double3x2.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_mat3x2.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_mat3x2.inl \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_double3x2_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_float3x2.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_float3x2_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/mat3x3.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_double3x3.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_mat3x3.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_mat3x3.inl \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_double3x3_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_float3x3.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_float3x3_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/mat3x4.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_double3x4.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_mat3x4.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_mat3x4.inl \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_double3x4_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_float3x4.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_float3x4_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/mat4x2.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_double4x2.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_mat4x2.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_mat4x2.inl \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_double4x2_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_float4x2.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_float4x2_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/mat4x3.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_double4x3.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_mat4x3.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_mat4x3.inl \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_double4x3_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_float4x3.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_float4x3_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/mat4x4.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_double4x4.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_mat4x4.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_mat4x4.inl \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_double4x4_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_float4x4.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_float4x4_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/func_matrix.inl \
- E:/Study/opengl/code3/include/glm/glm/geometric.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/func_geometric.inl \
- E:/Study/opengl/code3/include/glm/glm/exponential.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_vec1.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_vec1.inl \
- E:/Study/opengl/code3/include/glm/glm/detail/func_exponential.inl \
- E:/Study/opengl/code3/include/glm/glm/vector_relational.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/func_vector_relational.inl \
- E:/Study/opengl/code3/include/glm/glm/detail/_vectorize.hpp \
- E:/Study/opengl/code3/include/glm/glm/common.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/func_common.inl \
- E:/Study/opengl/code3/include/glm/glm/detail/compute_common.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_double2x2_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_float2x2.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_float2x2_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/trigonometric.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/func_trigonometric.inl \
- E:/Study/opengl/code3/include/glm/glm/packing.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/func_packing.inl \
- E:/Study/opengl/code3/include/glm/glm/detail/type_half.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_half.inl \
- E:/Study/opengl/code3/include/glm/glm/integer.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/func_integer.inl \
- E:/Study/opengl/code3/include/glm/glm/gtc/matrix_transform.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_projection.hpp \
- E:/Study/opengl/code3/include/glm/glm/gtc/constants.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/scalar_constants.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/scalar_constants.inl \
- E:/Study/opengl/code3/include/glm/glm/gtc/constants.inl \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_projection.inl \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_clip_space.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_clip_space.inl \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_transform.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/matrix_transform.inl \
- E:/Study/opengl/code3/include/glm/glm/gtc/matrix_transform.inl \
- E:/Study/opengl/code3/include/glm/glm/gtc/type_ptr.hpp \
- E:/Study/opengl/code3/include/glm/glm/gtc/quaternion.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_relational.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_relational.inl \
- E:/Study/opengl/code3/include/glm/glm/detail/type_float.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/quaternion_common.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/quaternion_geometric.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/quaternion_geometric.inl \
- E:/Study/opengl/code3/include/glm/glm/ext/quaternion_common.inl \
- E:/Study/opengl/code3/include/glm/glm/ext/quaternion_float.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/type_quat.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/quaternion_relational.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/quaternion_relational.inl \
- E:/Study/opengl/code3/include/glm/glm/detail/type_quat.inl \
- E:/Study/opengl/code3/include/glm/glm/ext/quaternion_float_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/quaternion_double.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/quaternion_double_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/quaternion_trigonometric.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/quaternion_trigonometric.inl \
- E:/Study/opengl/code3/include/glm/glm/ext/quaternion_transform.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/quaternion_transform.inl \
- E:/Study/opengl/code3/include/glm/glm/gtc/quaternion.inl \
- E:/Study/opengl/code3/include/glm/glm/gtc/epsilon.hpp \
- E:/Study/opengl/code3/include/glm/glm/detail/setup.hpp \
- E:/Study/opengl/code3/include/glm/glm/gtc/epsilon.inl \
- E:/Study/opengl/code3/include/glm/glm/gtc/vec1.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_bool1.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_bool1_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_float1.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_float1_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_double1.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_double1_precision.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_int1.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_int1_sized.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_uint1.hpp \
- E:/Study/opengl/code3/include/glm/glm/ext/vector_uint1_sized.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/fwd.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/qualifier.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/setup.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/vec2.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_bool2.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_vec2.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_vec2.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/compute_vector_relational.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_bool2_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_float2.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_float2_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_double2.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_double2_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_int2.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_int2_sized.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/scalar_int_sized.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/setup.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_uint2.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_uint2_sized.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/scalar_uint_sized.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/vec3.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_bool3.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_vec3.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_vec3.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_bool3_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_float3.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_float3_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_double3.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_double3_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_int3.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_int3_sized.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_uint3.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_uint3_sized.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/vec4.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_bool4.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_vec4.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_vec4.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_bool4_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_float4.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_float4_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_double4.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_double4_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_int4.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_int4_sized.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_uint4.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_uint4_sized.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/mat2x2.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_double2x2.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_mat2x2.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_mat2x2.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/matrix.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/mat2x3.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_double2x3.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_mat2x3.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_mat2x3.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_double2x3_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_float2x3.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_float2x3_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/mat2x4.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_double2x4.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_mat2x4.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_mat2x4.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_double2x4_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_float2x4.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_float2x4_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/mat3x2.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_double3x2.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_mat3x2.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_mat3x2.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_double3x2_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_float3x2.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_float3x2_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/mat3x3.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_double3x3.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_mat3x3.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_mat3x3.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_double3x3_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_float3x3.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_float3x3_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/mat3x4.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_double3x4.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_mat3x4.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_mat3x4.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_double3x4_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_float3x4.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_float3x4_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/mat4x2.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_double4x2.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_mat4x2.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_mat4x2.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_double4x2_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_float4x2.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_float4x2_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/mat4x3.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_double4x3.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_mat4x3.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_mat4x3.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_double4x3_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_float4x3.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_float4x3_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/mat4x4.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_double4x4.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_mat4x4.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_mat4x4.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_double4x4_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_float4x4.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_float4x4_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/func_matrix.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/geometric.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/func_geometric.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/exponential.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_vec1.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_vec1.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/func_exponential.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/vector_relational.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/func_vector_relational.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/_vectorize.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/common.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/func_common.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/compute_common.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_double2x2_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_float2x2.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_float2x2_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/trigonometric.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/func_trigonometric.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/packing.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/func_packing.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_half.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_half.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/integer.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/func_integer.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/gtc/matrix_transform.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_projection.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/gtc/constants.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/scalar_constants.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/scalar_constants.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/gtc/constants.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_projection.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_clip_space.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_clip_space.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_transform.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/matrix_transform.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/gtc/matrix_transform.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/gtc/type_ptr.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/gtc/quaternion.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_relational.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_relational.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_float.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/quaternion_common.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/quaternion_geometric.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/quaternion_geometric.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/quaternion_common.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/quaternion_float.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_quat.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/quaternion_relational.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/quaternion_relational.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/type_quat.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/quaternion_float_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/quaternion_double.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/quaternion_double_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/quaternion_trigonometric.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/quaternion_trigonometric.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/quaternion_transform.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/quaternion_transform.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/gtc/quaternion.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/gtc/epsilon.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/detail/setup.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/gtc/epsilon.inl \
+ E:/Study/opengl/code/code3/include/glm/glm/gtc/vec1.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_bool1.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_bool1_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_float1.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_float1_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_double1.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_double1_precision.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_int1.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_int1_sized.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_uint1.hpp \
+ E:/Study/opengl/code/code3/include/glm/glm/ext/vector_uint1_sized.hpp \
  C:/msys64/mingw64/include/c++/11.2.0/cstring \
  C:/msys64/mingw64/include/string.h \
  C:/msys64/mingw64/include/sec_api/string_s.h \
- E:/Study/opengl/code3/include/glm/glm/gtc/type_ptr.inl \
- E:\Study\opengl\code3\src\shader_m.h \
+ E:/Study/opengl/code/code3/include/glm/glm/gtc/type_ptr.inl \
+ E:\Study\opengl\code\code3\src\shader_m.h \
  C:/msys64/mingw64/include/c++/11.2.0/string \
  C:/msys64/mingw64/include/c++/11.2.0/bits/stringfwd.h \
  C:/msys64/mingw64/include/c++/11.2.0/bits/memoryfwd.h \
@@ -349,13 +350,14 @@ CMakeFiles/main.dir/src/main.cpp.obj: E:\Study\opengl\code3\src\main.cpp \
  C:/msys64/mingw64/include/c++/11.2.0/sstream \
  C:/msys64/mingw64/include/c++/11.2.0/bits/sstream.tcc \
  C:/msys64/mingw64/include/c++/11.2.0/iostream \
- E:\Study\opengl\code3\src\camera.h \
+ E:\Study\opengl\code\code3\src\camera.h \
  C:/msys64/mingw64/include/c++/11.2.0/vector \
  C:/msys64/mingw64/include/c++/11.2.0/bits/stl_uninitialized.h \
  C:/msys64/mingw64/include/c++/11.2.0/bits/stl_vector.h \
  C:/msys64/mingw64/include/c++/11.2.0/bits/stl_bvector.h \
  C:/msys64/mingw64/include/c++/11.2.0/bits/vector.tcc \
- E:\Study\opengl\code3\src\model.h E:\Study\opengl\code3\src\stb_image.h \
+ E:\Study\opengl\code\code3\src\model.h \
+ E:\Study\opengl\code\code3\src\stb_image.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdarg.h \
  C:/msys64/mingw64/include/stdarg.h \
  C:/msys64/mingw64/include/_mingw_stdarg.h \
@@ -363,20 +365,20 @@ CMakeFiles/main.dir/src/main.cpp.obj: E:\Study\opengl\code3\src\main.cpp \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/emmintrin.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/xmmintrin.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/mmintrin.h \
- E:/Study/opengl/code3/include/assimp/Importer.hpp \
- E:/Study/opengl/code3/include/assimp/types.h \
- E:/Study/opengl/code3/include/assimp/defs.h \
- E:/Study/opengl/code3/include/assimp/config.h \
- E:/Study/opengl/code3/include/assimp/vector2.h \
- E:/Study/opengl/code3/include/assimp/vector3.h \
- E:/Study/opengl/code3/include/assimp/color4.h \
- E:/Study/opengl/code3/include/assimp/matrix3x3.h \
- E:/Study/opengl/code3/include/assimp/matrix4x4.h \
- E:/Study/opengl/code3/include/assimp/quaternion.h \
- E:/Study/opengl/code3/include/assimp/vector2.inl \
- E:/Study/opengl/code3/include/assimp/vector3.inl \
- E:/Study/opengl/code3/include/assimp/color4.inl \
- E:/Study/opengl/code3/include/assimp/matrix3x3.inl \
+ E:/Study/opengl/code/code3/include/assimp/Importer.hpp \
+ E:/Study/opengl/code/code3/include/assimp/types.h \
+ E:/Study/opengl/code/code3/include/assimp/defs.h \
+ E:/Study/opengl/code/code3/include/assimp/config.h \
+ E:/Study/opengl/code/code3/include/assimp/vector2.h \
+ E:/Study/opengl/code/code3/include/assimp/vector3.h \
+ E:/Study/opengl/code/code3/include/assimp/color4.h \
+ E:/Study/opengl/code/code3/include/assimp/matrix3x3.h \
+ E:/Study/opengl/code/code3/include/assimp/matrix4x4.h \
+ E:/Study/opengl/code/code3/include/assimp/quaternion.h \
+ E:/Study/opengl/code/code3/include/assimp/vector2.inl \
+ E:/Study/opengl/code/code3/include/assimp/vector3.inl \
+ E:/Study/opengl/code/code3/include/assimp/color4.inl \
+ E:/Study/opengl/code/code3/include/assimp/matrix3x3.inl \
  C:/msys64/mingw64/include/c++/11.2.0/algorithm \
  C:/msys64/mingw64/include/c++/11.2.0/utility \
  C:/msys64/mingw64/include/c++/11.2.0/bits/stl_relops.h \
@@ -401,23 +403,24 @@ CMakeFiles/main.dir/src/main.cpp.obj: E:\Study\opengl\code3\src\main.cpp \
  C:/msys64/mingw64/include/c++/11.2.0/bits/unordered_map.h \
  C:/msys64/mingw64/include/c++/11.2.0/bits/erase_if.h \
  C:/msys64/mingw64/include/c++/11.2.0/pstl/execution_defs.h \
- E:/Study/opengl/code3/include/assimp/matrix4x4.inl \
- E:/Study/opengl/code3/include/assimp/MathFunctions.h \
- E:/Study/opengl/code3/include/assimp/quaternion.inl \
- E:/Study/opengl/code3/include/assimp/scene.h \
- E:/Study/opengl/code3/include/assimp/texture.h \
- E:/Study/opengl/code3/include/assimp/Compiler/pushpack1.h \
- E:/Study/opengl/code3/include/assimp/Compiler/poppack1.h \
- E:/Study/opengl/code3/include/assimp/mesh.h \
- E:/Study/opengl/code3/include/assimp/aabb.h \
- E:/Study/opengl/code3/include/assimp/light.h \
- E:/Study/opengl/code3/include/assimp/camera.h \
- E:/Study/opengl/code3/include/assimp/material.h \
- E:/Study/opengl/code3/include/assimp/material.inl \
- E:/Study/opengl/code3/include/assimp/anim.h \
- E:/Study/opengl/code3/include/assimp/metadata.h \
- E:/Study/opengl/code3/include/assimp/postprocess.h \
- E:\Study\opengl\code3\src\mesh.h E:\Study\opengl\code3\src\shader.h \
+ E:/Study/opengl/code/code3/include/assimp/matrix4x4.inl \
+ E:/Study/opengl/code/code3/include/assimp/MathFunctions.h \
+ E:/Study/opengl/code/code3/include/assimp/quaternion.inl \
+ E:/Study/opengl/code/code3/include/assimp/scene.h \
+ E:/Study/opengl/code/code3/include/assimp/texture.h \
+ E:/Study/opengl/code/code3/include/assimp/Compiler/pushpack1.h \
+ E:/Study/opengl/code/code3/include/assimp/Compiler/poppack1.h \
+ E:/Study/opengl/code/code3/include/assimp/mesh.h \
+ E:/Study/opengl/code/code3/include/assimp/aabb.h \
+ E:/Study/opengl/code/code3/include/assimp/light.h \
+ E:/Study/opengl/code/code3/include/assimp/camera.h \
+ E:/Study/opengl/code/code3/include/assimp/material.h \
+ E:/Study/opengl/code/code3/include/assimp/material.inl \
+ E:/Study/opengl/code/code3/include/assimp/anim.h \
+ E:/Study/opengl/code/code3/include/assimp/metadata.h \
+ E:/Study/opengl/code/code3/include/assimp/postprocess.h \
+ E:\Study\opengl\code\code3\src\mesh.h \
+ E:\Study\opengl\code\code3\src\shader.h \
  C:/msys64/mingw64/include/c++/11.2.0/map \
  C:/msys64/mingw64/include/c++/11.2.0/bits/stl_tree.h \
  C:/msys64/mingw64/include/c++/11.2.0/bits/stl_map.h \

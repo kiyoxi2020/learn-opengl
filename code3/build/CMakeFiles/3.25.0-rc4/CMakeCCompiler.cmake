@@ -1,7 +1,7 @@
 set(CMAKE_C_COMPILER "C:/msys64/mingw64/bin/gcc.exe")
 set(CMAKE_C_COMPILER_ARG1 "")
 set(CMAKE_C_COMPILER_ID "GNU")
-set(CMAKE_C_COMPILER_VERSION "12.2.0")
+set(CMAKE_C_COMPILER_VERSION "11.2.0")
 set(CMAKE_C_COMPILER_VERSION_INTERNAL "")
 set(CMAKE_C_COMPILER_WRAPPER "")
 set(CMAKE_C_STANDARD_COMPUTED_DEFAULT "17")
@@ -66,7 +66,7 @@ endif()
 
 
 
-set(CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES "C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include;C:/msys64/mingw64/include;C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed")
+set(CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES "C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include;C:/msys64/mingw64/include;C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed")
 set(CMAKE_C_IMPLICIT_LINK_LIBRARIES "mingw32;gcc;moldname;mingwex;kernel32;pthread;advapi32;shell32;user32;kernel32;mingw32;gcc;moldname;mingwex;kernel32")
-set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0;C:/msys64/mingw64/lib/gcc;C:/msys64/mingw64/x86_64-w64-mingw32/lib;C:/msys64/mingw64/lib")
+set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0;C:/msys64/mingw64/lib/gcc;C:/msys64/mingw64/x86_64-w64-mingw32/lib;C:/msys64/mingw64/lib")
 set(CMAKE_C_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "")
