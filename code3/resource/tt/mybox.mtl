@@ -1,0 +1,5 @@
+﻿newmtl M_Brick_Clay_New
+	map_Kd M_Brick_Clay_New_D.bmp
+	map_Ks M_Brick_Clay_New_S.bmp
+	bump M_Brick_Clay_New_N.bmp
+
